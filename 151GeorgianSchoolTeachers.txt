@@ -1,0 +1,326 @@
+151 School Teachers DOX
+
+School Images: https://ibb.co/nfNh3GG
+
+Teachers:
+
+Teacher: 1
+> Name And Lastname: Qetevan Abaxadze
+> Mail: abaxadze.ketevan@teachers.gov.ge
+> Phone Number: 577387934
+
+
+Teacher: 2
+> Name And Lastname: Tamila Gegeia
+> Mail: gegelia.tamalia@teachers.gov.ge
+> Phone Number: 577387982
+
+
+Teacher: 3
+> Name And Lastname: Natia Gvazava
+> Mail: gvazava.natia@teacher.gov.ge
+> Phone Number: 577387983
+
+
+Teacher: 4
+> Name And Lastname: Mariam Zedelashili 
+> Mail: zedelashvili.mariam@teachers.gov.ge
+> Phone Number: 577387926
+
+
+Teacher: 5
+> Name And Lastname: Lali Dolize
+> Mail: Dolidze.Lali9@teachers.gov.ge
+> Phone Number: 577387958
+
+
+Teacher: 6
+> Name And Lastname: Ekaterine Vachnaze
+> Mail: vachnadzeekaterine@teachers.gov.ge
+> Phone Number: 577387981
+
+
+Teacher: 7
+> Name And Lastname: Dali Tegetashvili 
+> Mail: tegetashvili.dali@teachers.gov.ge
+> Phone Number: 577387929
+
+
+Teacher: 8
+> Name And Lastname: Qetevan Mindeli
+> Mail: mindeli.ketevan@teachers.gov.ge
+> Phone Number: 577387953
+
+
+Teacher: 9
+> Name And Lastname: Qetevan Narimanishvili
+> Mail: narimanashvili.ketev@teachers.gov.ge
+> Phone Number: 577387966
+
+
+Teacher: 10
+> Name And Lastname: Xatuna Samsonashvili
+> Mail: samsonashvili.khatun@teachers.gov.ge
+> Phone Number: 577387969
+
+
+Teacher: 11
+> Name And Lastname: Nino Sixarulidze
+> Mail: sikharulidze.nino@teachers.gov.ge
+> Phone Number: 577387949
+
+
+Teacher: 12
+> Name And Lastname: Ana Cherqezishvili
+> Mail: cherkezishvili.ana@teachers.gov.ge
+> Phone Number: 577387914
+
+
+Teacher: 13
+> Name And Lastname: Liana Xurcidze
+> Mail: khurtsidze.liana@teachers.gov.ge
+> Phone Number: 577387968
+
+
+Teacher: 14
+> Name And Lastname: Leila Dalaqishvili
+> Mail: dalakishvili.leila1@teachers.gov.ge
+> Phone Number: 577387975
+
+
+Teacher: 15
+> Name And Lastname: Tinatin Abashidze
+> Mail: abashidze.tinatin4@teachers.gov.ge
+> Phone Number: 593656822
+
+
+Teacher: 16
+> Name And Lastname: Marexi Basilidze
+> Mail: basilidze.marekhi@teachers.gov.ge
+> Phone Number: 577331355
+
+
+Teacher: 17
+> Name And Lastname: Maka Vashakidze
+> Mail: vashakidze.maka@teachers.gov.ge
+> Phone Number: 577387956
+
+
+Teacher: 18
+> Name And Lastname: Ia Iakobashvili
+> Mail: iakobashvili.ia@teachers.gov.ge
+> Phone Number: 577387923
+
+
+Teacher: 19
+> Name And Lastname: Tamari Kikabidze
+> Mail: kikabidze.tamari@teachers.gov.ge
+> Phone Number: 577387955
+
+
+Teacher: 20
+> Name And Lastname: Ekaterine Kiknavelidze
+> Mail: kiknavelidze.ekateri@teachers.gov.ge
+> Phone Number: 577387948
+
+
+Teacher: 21
+> Name And Lastname: Irine Kobeshavidze
+> Mail: kobeshavidze.irine@teachers.gov.ge
+> Phone Number: 577387952
+
+
+Teacher: 22
+> Name And Lastname: Tamar Makalatia
+> Mail: makalatia.tamar@teachers.gov.ge
+> Phone Number: 577387977
+
+
+Teacher: 23
+> Name And Lastname: Tamar Qiliftari
+> Mail: kiliptari.tamar@teachers.gov.ge
+> Phone Number: 577387970
+
+
+Teacher: 24
+> Name And Lastname: Lela Sharabidze
+> Mail: sharabidze.lela@teachers.gov.ge
+> Phone Number: 577387985
+
+
+Teacher: 25
+> Name And Lastname: Marine Shukakidze
+> Mail: shukakidze.marine@teachers.gov.ge
+> Phone Number: 577387910
+
+
+Teacher: 26
+> Name And Lastname: Leila Chitaishvili
+> Mail: chitaishvili.leila@teachers.gov.ge
+> Phone Number: 577387936
+
+
+Teacher: 27
+> Name And Lastname: Natia Cincadze
+> Mail: tsintsadze.natia2@teachers.gov.ge
+> Phone Number: 599969435
+
+
+Teacher: 28
+> Name And Lastname: Nino Bajadze
+> Mail: bajadze.nino@teachers.gov.ge
+> Phone Number: 595949817
+
+
+Teacher: 29
+> Name And Lastname: Tea Gabisonia
+> Mail: gabisonia.tea@teachers.gov.ge
+> Phone Number: 577387908
+
+
+Teacher: 30
+> Name And Lastname: Rusudani Menabdishvili
+> Mail: menabdishvili.rusuda@teachers.gov.ge
+> Phone Number: 577387909
+
+
+Teacher: 31
+> Name And Lastname: Giuli Natroshvili
+> Mail: natroshvili.giuli@teachers.gov.ge
+> Phone Number: 577387907
+
+
+Teacher: 32
+> Name And Lastname: Nato Toroshelidze
+> Mail: toroshelidze.nato@teachers.gov.ge
+> Phone Number: 595949823
+
+
+Teacher: 33
+> Name And Lastname: Xatuni Chaladze
+> Mail: chaladze.khatuti@teachers.gov.ge
+> Phone Number: 577387944
+
+
+Teacher: 34
+> Name And Lastname: Medeia Tutberidze
+> Mail: tutberidze.medea@teachers.gov.ge
+> Phone Number: 577387959
+
+
+Teacher: 35
+> Name And Lastname: Nino Tabukashvili
+> Mail: tabukashvili.nino1@teachers.gov.ge
+> Phone Number: 577387950
+
+
+Teacher: 36
+> Name And Lastname: Sofio Iremashvili
+> Mail: iremashvili.sopio@teachers.gov.ge
+> Phone Number: 577387928
+
+
+Teacher: 37
+> Name And Lastname: Indira Meliqidze
+> Mail: melikidze.indira@teachers.gov.ge
+> Phone Number: 577387931
+
+
+Teacher: 38
+> Name And Lastname: Marine Sanadze
+> Mail: sanadze.marine@teachers.gov.ge
+> Phone Number: 577387972
+
+
+Teacher: 39
+> Name And Lastname: Nino Qartvelishvili
+> Mail: kartvelishvili.nino@teachers.gov.ge
+> Phone Number: 577387947
+
+
+Teacher: 40
+> Name And Lastname: Maia Daღundaridze
+> Mail: dagundaridze.maia@teachers.gov.ge
+> Phone Number: 577387945
+
+
+Teacher: 41
+> Name And Lastname: Natalia Lortqifanidze
+> Mail: lortkipanidze.natali@teachers.gov.ge
+> Phone Number: 595431413
+
+Teacher: 42
+> Name And Lastname: Lia Maxaroblidze
+> Mail: makharoblidze.lia@teachers.gov.ge
+> Phone Number: 577387986
+
+
+Teacher: 43
+> Name And Lastname: Lali Mchedlishvili
+> Mail: mchedlishvili.lali1@teachers.gov.ge
+> Phone Number: 595449060
+
+
+Teacher: 44
+> Name And Lastname: Nino Maisuradze
+> Mail: maisuradze.nino122@teachers.gov.ge
+> Phone Number: 599273386
+
+Teacher: 45
+> Name And Lastname: Laura Begiashvili
+> Mail: begiashvili.laura@teachers.gov.ge
+> Phone Number: 577387927
+
+
+Teacher: 46
+> Name And Lastname: Nino Gxirishvili
+> Mail: gzirishvili.nino4@teachers.gov.ge
+> Phone Number: 577387940
+
+
+Teacher: 47
+> Name And Lastname: Irma Kevlishvili
+> Mail: kevlishvili.irma@teachers.gov.ge
+> Phone Number: 577387918
+
+
+Teacher: 48
+> Name And Lastname: Maka Gagnidze
+> Mail: gagnidze.maka@teachers.gov.ge
+> Phone Number: 577387922
+
+
+Teacher: 49
+> Name And Lastname: Lali Gobojeshvili
+> Mail: gobejishvili.lali@teachers.gov.ge
+> Phone Number: 595950347
+
+
+Teacher: 50
+> Name And Lastname: Qetevan metreveli
+> Mail: metreveli.ketevan@teachers.gov.ge
+> Phone Number: 595950337
+
+
+Teacher: 51
+> Name And Lastname: Teona Qavtaradze
+> Mail: kavtaradze.teona@teachers.gov.ge
+> Phone Number: 577050415
+
+
+Teacher: 52
+> Name And Lastname: Tina Meliqidze
+> Mail: melikidze.tina@teachers.gov.ge
+> Phone Number: 577387930
+
+
+Teacher: 53
+> Name And Lastname: Natalia Mchedlidze
+> Mail: mchedlidze.natalia@teachers.gov.ge
+> Phone Number: 599447876
+
+
+Teacher: 54
+> Name And Lastname: Genul Dzimistarishvili
+> Mail: dzimistarishvili.gen@teachers.gov.ge
+> Phone Number: 577387943

@@ -1,0 +1,73 @@
+128 School Teachers DOX:
+
+1.
+    Name: Dali
+    Surname: Gulaia
+    Dad Name: Not Found
+    Age: 71
+    Date Of Birth: 4.3.1952
+    Private Number: 01024018000
+    Certificate Number: 0152697
+    School: #128 Public School ( Georgia, Tbilisi )
+    Image: https://ibb.co/X2VbTcd
+    Address: Tbilisi S.nucubiZis q. N 2 b. 21,saburTalo
+
+2.
+    Name: Irma
+    Surname: Kopaleishvili
+    Dad Name: Valerianis
+    Age: 60
+    Date Of Birth: 19.1.1963
+    Private Number: 01024047622
+    Certificate Number: 0578303
+    School: #128 Public School ( Georgia, Tbilisi )
+    Image: https://ibb.co/VwTg3NK
+    Address: Tbilisi al.yazbegis gamz. N 24 b. 32,saburTalo
+
+3.
+    Name: Mariana
+    Surname: Tabukashvili
+    Dad Name: Irakli
+    Age: 43
+    Date Of Birth: 5.10.1980
+    Private Number: 25001002799
+    Certificate Number: 1238545
+    School: #128 Public School ( Georgia, Tbilisi )
+    Image: https://ibb.co/KrjFCMf
+    Address: Tbilisi a.politkovskaias q. N 10 b. 35,vake
+
+4.
+    Name: Nana
+    Surname: Nauashvili
+    Dad Name: Vasili
+    Age: 64
+    Date Of Birth: 25.3.1959
+    Private Number: 01009023246
+    Certificate Number: 0578234
+    School: #128 Public School ( Georgia, Tbilisi )
+    Image: https://ibb.co/8dXRtC5
+    Address: Tbilisi vaJa-fSavelas gamz. N 52 b. 31,vake
+
+5.
+    Name: Natalia
+    Surname: Qochladze
+    Dad Name: Karlo
+    Age: 63
+    Date Of Birth: 8.8.1960
+    Private Number: 01009010488
+    Certificate Number: 0754184
+    School: #128 Public School ( Georgia, Tbilisi )
+    Image: https://ibb.co/mRp7NMb
+    Address: Tbilisi S.nucubiZis ferd IV m/r kor. 21 b. 74,vake
+
+6.
+    Name: Sergo
+    Surname: Bocvadze
+    Dad Name: Tarieli
+    Age: 62
+    Date Of Birth: 02.01.1961
+    Private Number: 01008038742
+    Certificate Number: 0782530
+    School: #128 Public School ( Georgia, Tbilisi )
+    Image: https://ibb.co/Yt0v3TW
+    Address: Tbilisi, Shalva nucubidzis qucha, N 211, Building 4, Apartment 38.
