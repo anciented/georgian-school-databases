@@ -1,2 +1,2 @@
 # georgian-school-databases
-georgian school databases by @hazay,@ancient.@seventak
+georgian school databases by @seventak
